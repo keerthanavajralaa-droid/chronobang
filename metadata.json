@@ -1,0 +1,6 @@
+{
+  "name": "Borahae BTS Universe",
+  "description": "The ultimate lavender-purple BTS portal featuring chronological music videos with YouTube redirects, show episodes, preferred viewing orders, and an auto-shuffling Song of the Day with Spotify links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
